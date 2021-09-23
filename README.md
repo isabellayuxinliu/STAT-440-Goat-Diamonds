@@ -1,2 +1,2 @@
-# yuxinliu
-For STAT 184
+# Projects have been done
+
